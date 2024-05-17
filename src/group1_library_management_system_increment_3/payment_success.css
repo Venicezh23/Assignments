@@ -1,0 +1,74 @@
+.container {
+    border-radius: 1.9rem;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.3rem 0 1rem 0;
+    width: 30.0rem; /* Adjusted width */
+    height: 20.0rem;
+    box-sizing: border-box;
+    top: 5.0rem;
+}
+
+.pay-fine-success-1-v-3 {
+  background: #00C2CB;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4.4rem 0.8rem 2.1rem 0.9rem;
+  width: 100vw; /* Change width to 100vw (viewport width) */
+  height: 100vh; /* Set height to 100vh (viewport height) */
+  box-sizing: border-box;
+}
+.white-with-transparent-background-3 {
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/FmfLjSLPuZidy2Ait32mHP/assets/images/c13c199feeef9853df0d4ae2234352c08cf7f22a?Expires=1711696571&KeyName=fn12-cdn&Signature=mfkLdPSw0HcGRS9iXuVbOE318so=') 50% / cover no-repeat;
+  position: absolute;
+  left: 0.9rem;
+  top: -2.4rem;
+  width: 10.4rem;
+  height: 8.9rem;
+}
+.payment{
+	margin: 1.0rem 1.0rem 2.1rem 1.0rem;
+	display: inline-block;
+	overflow-wrap: break-word;
+	font-family: 'Montserrat';
+	font-weight: 700;
+	font-size: 1.9rem;
+	color: #002439;
+}
+.payment-successful {
+  margin-bottom: 2.9rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 2rem;
+  color: #000000;
+}
+.you-will-be-redirected-to-the-homepage-in-10-seconds {
+  margin-right: 0.1rem;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.you-will-be-redirected-to-the-homepage-in-10-seconds-sub-0 {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 1.3rem;
+  line-height: 1.333;
+}
+.an-invoice-will-be-sent-to-your-email {
+  margin: 0 0.1rem 1.0rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: #000000;
+}

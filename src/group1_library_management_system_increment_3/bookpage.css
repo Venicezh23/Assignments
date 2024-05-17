@@ -1,0 +1,502 @@
+.homepage {
+    background-color: #ffffff;
+    height: 100%;
+    position: relative;
+    min-width: 500px;
+    width: 100%;
+    
+
+    .userpic {
+        border-radius: 2rem;
+        cursor: pointer;
+        height: 2.5rem;
+        width: 2.5rem;
+        margin-right: 5rem;
+        object-fit: cover;
+        vertical-align: top;
+		background-color:transparent;
+		color:transparent;
+		border:none;
+        }
+    
+    .group-available-books {
+        position: absolute;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        left: 0;
+        width: 100%;
+        margin-top: 15px;
+  
+        .availablebooks {
+            background-color: #ffffff;
+            border-radius: 1rem;
+            box-sizing: border-box;
+            flex-shrink: 0;
+            margin: 0rem 0rem 4.6rem 0.3rem;
+            padding: 0.8rem 0.5rem 0.9rem 1.35rem;
+
+            .available-books-text {
+                align-items: center;
+                color: #002439;
+                display: flex;
+                font-family: Montserrat;
+                font-size: 1.4rem;
+                font-weight: 800;
+                justify-content: Left;
+                white-space: nowrap;
+                text-decoration: none;
+            }
+
+            .see-all-button {
+                align-items: center;
+                border: solid 0.7rem #002439;
+                border-radius: 2rem;
+                box-sizing: border-box;
+                color: #ffffff;
+                cursor: pointer;
+                display: flex;
+                font-family: 'Montserrat';
+                font-size: 0.7rem;
+                font-weight: 700;
+                height: 1.5rem;
+                justify-content: center;
+                background-color: #002439;
+                flex-shrink: 0;
+                margin-bottom: 0.7rem;
+                left: 0;
+                top: 0;
+                white-space: nowrap;
+                width: 3.9rem;
+            }
+    
+            .see-all-button:hover {
+                text-decoration: underline;
+            }
+
+            .book-box{
+                align-items: left;
+                justify-content: left;
+                display: flex;
+                box-sizing: border-box;
+                flex-wrap: wrap;
+            }
+
+            .book {
+                cursor: pointer;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                margin: 2rem 2rem 2rem 2rem;
+        
+                .image-book {
+                    flex-shrink: 0;
+                    height: 10.6rem;
+                    margin-bottom: 0.6rem;
+                    object-fit: cover;
+                    vertical-align: top;
+                    width: 7rem;
+                }
+
+                .group-title-author {
+                    flex-shrink: 0;
+                    height: 2.2rem;
+                    margin-left: 0.25rem;
+                    position: relative;
+                    width: 3.5rem;
+            
+                    .author-text {
+                        align-items: left;
+                        color: #002439;
+                        display: flex;
+                        font-family: 'Montserrat';
+                        font-size: 0.8rem;
+                        font-weight: 500;
+                        height: 1rem;
+                        justify-content: left;
+                        left: 0.05rem;
+                        line-height: 1.2175;
+                        position: absolute;
+                        top: 1.2rem;
+                        white-space: nowrap;
+                        width: 10rem;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                    }
+                    .book-text {
+                        align-items: left;
+                        color: #002439;
+                        display: flex;
+                        font-family: 'Montserrat';
+                        font-size: 1rem;
+                        font-weight: 700;
+                        height: 1.3rem;
+                        justify-content: left;
+                        left: 0;
+                        line-height: 1.2175;
+                        position: absolute;
+                        top: 0;
+                        width: 10rem;
+                        overflow: hidden;
+                        white-space: nowrap;
+                        text-overflow: ellipsis;
+                    }
+                }
+            }
+        } 
+
+
+        .quotepage {
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            height: 100%;
+            /* margin-right: 0.3rem; */
+            position: relative;
+            width: 100%;
+    
+            .studentsbackground {
+            background: linear-gradient(0deg, rgba(0, 194, 203, 0) 0%, rgba(0, 194, 203, 0.5299999714) 3.67%, rgba(0, 194, 203, 0.4399999976) 39.5%, rgba(0, 194, 203, 0) 100%);
+            height: 100%;
+            left: 0;
+            position: absolute;
+            width: 100%;
+            }
+
+            #carouselExampleFade {
+                width: 80rem;
+                height: 500px;
+            }
+            .studentqoute {
+                justify-content: center;
+                display: flex;
+                height: 25rem;
+                margin-left: 2rem;
+                margin-right: 2rem;
+
+                .carousel-item img {
+                    flex-shrink: 0;
+                    height: 30rem;
+                    object-fit: cover;
+                    vertical-align: top;
+                }
+                .image-with-text {
+                    display: flex;
+                    align-items: center;
+                }
+                .quote-text {
+                    font-family: 'Montserrat';
+                    font-size: 1.5rem;
+                    font-weight: 500;
+                    line-height: 1.2175;
+                    margin-left: 20px; 
+                    color: #002439; 
+                    padding: 10px; 
+                }
+            }
+        }
+    }
+
+    .infoaboutlibrary {
+        height: 25.5rem;
+        width: 100%;
+        position: relative;
+    
+        .library-image {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+
+        .gradient-mask {
+            position: absolute;
+            background: linear-gradient(90deg, #00c2cb 0%, #00c2cb 10%, rgba(0, 194, 203, 0) 100%);
+            height: 100%;
+            left: 0;
+            top: 0;
+            width: 100%;
+        }
+
+        .librarybox{
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            padding-left: 3rem;
+            margin-top: 5rem;
+            align-items: left;
+            justify-content: left;
+            box-sizing: border-box;
+            color: #ffffff;
+            font-family: 'Montserrat';
+
+            .learnmorebutton {
+                background-color: transparent;
+                color: #ffffff;
+                align-items: center;
+                border: solid 0.1rem #ffffff;
+                border-radius: 2rem;
+                cursor: pointer;
+                display: flex;
+                font-size: 0.7rem;
+                font-weight: 700;
+                height: 1.5rem;
+                justify-content: center;
+                line-height: 1.2175;
+                position: absolute;
+                white-space: nowrap;
+                width: 5.4rem;
+                margin-top: 1rem;
+            }
+            .learnmorebutton:hover {
+                border: solid 0.1rem #ffffff;
+                color: #00c2cb;
+                background-color: #ffffff;
+            }
+            .big-title {
+                display: flex;
+                font-size: 6.4rem;
+                font-weight: 700;
+                line-height: 1.2175;
+                margin-bottom: 0.15rem;
+                width: 100%;
+            }
+            .small-title {
+                display: flex;
+                font-size: 1.5rem;
+                font-weight: 500;
+                line-height: 1.2175;
+                max-width: 40rem;
+                margin-bottom: 0.15rem;
+                overflow-wrap: break-word;
+            }
+            @media screen and (max-width: 800px) {
+                .big-title {
+                    font-size: 5rem; 
+                }
+                .small-title {
+                    font-size: 1rem;
+                }
+            }
+        }
+    }
+   
+
+    .header {
+        background-color: #00c2cb;
+        display: flex;
+        width: 100%;
+    }
+
+    .header-text{
+        color: #ffffff;
+        background-color: transparent;
+        border-color: transparent;
+        border-radius: 2rem;
+        font-family: 'Montserrat';
+        font-size: 1.3rem;
+        font-weight: 700;
+        display: flex;
+        flex-shrink: 0;
+        justify-content: center;
+        line-height: 1.2175;
+        margin: 0.1rem 6.3rem 0rem 0rem;
+        white-space: nowrap;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .search-form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    .search-container-bar {
+        margin-top: 20px;
+    }
+    .search-container {
+        background-color: white;
+        display: flex;
+        align-items: center;
+        border-radius: 20px;
+        padding: 5px 10px;
+        border-width: thin;
+        border-color: #b7b7b7;
+        box-shadow: 0 0.7rem 0.4rem rgba(168, 163, 163, 0.25);
+        height: 2.67rem;
+        width: 28.9rem;
+        padding-left: 20px;
+        font-family: Montserrat;
+    }
+    
+
+    .header-text:hover{
+        color: #00c2cb;
+        background-color: #ffffff;
+    }
+
+    .sort-button, .sort-pic{
+        background-color: transparent;
+        color: transparent;
+        border: none; 
+        padding: 0; 
+        height: 2.5rem;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    
+    /* Dropdown Content (Hidden by Default) */
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        font-family: 'Montserrat';
+        font-size: 15px;
+    }
+    
+    /* Links inside the dropdown */
+    .dropdown-content a {
+        color: #002439;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        font-family: 'Montserrat';
+    }
+    
+    /* Change color of dropdown links on hover */
+    .dropdown-content a:hover {background-color: #ddd;}
+    
+    /* Show the dropdown menu on hover */
+    .dropdown:hover .dropdown-content {display: block;}
+    
+
+    .userpic {
+        border-radius: 2rem;
+        cursor: pointer;
+        height: 2.5rem;
+        width: 2.5rem;
+        margin-right: 5rem;
+        object-fit: cover;
+        vertical-align: top;
+		background-color:transparent;
+		color:transparent;
+		border:none;
+    }
+	
+	.icon-button__badge {
+		position: absolute;
+		top: -7px; /* Adjust the positioning of the badge as per your design */
+		left: 30px; /* Adjust the positioning of the badge as per your design */
+		width: 20px;
+		height: 20px;
+		background: red;
+		color: #ffffff;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-radius: 50%;
+	}
+
+
+    .settingicon {
+        cursor: pointer;
+        height: 2.5rem;
+        margin-top: 0.1rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.5rem;
+    }
+
+    .searchinput {
+          flex: 1 1 auto; 
+          max-width: 100%; 
+          border: none;
+          outline: none;
+    }
+    
+    .searchbutton {
+        background-color: #00c2cb;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        border-radius: 0 2rem 2rem 0;
+        height: 2.67rem;
+        width: 4.1rem;
+        margin-right: -11px;
+    }
+    .searchbutton:hover{opacity: 0.7;}
+    
+    .search-img {
+        height: 1.5rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 1.5rem;
+    }
+    
+    .uosmlogo {
+        cursor: pointer;
+        height: 5.6rem;
+        left: 1.3rem;
+        object-fit: cover;
+        top: 0;
+        vertical-align: top;
+        width: 12.9rem;
+    }
+
+}
+
+.pay-dropdown-icon-badge {
+    position: relative;
+}
+
+.pay-dropdown-icon-badge .dropdown-button__badge {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: red;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    top: 14px;
+    right: 55px; /* Adjust the position as needed */
+}
+
+.icon-history__badge {
+    position: absolute;
+    top: -3px;
+    right: -5px;
+    width: 20px;
+    height: 20px;
+    background: red;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-weight: 100;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.name-text {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 20px;
+    color: #00c2cb;
+    text-align: right; 
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.097); 
+    margin-top: 5px;
+    margin-right: 10px;
+}

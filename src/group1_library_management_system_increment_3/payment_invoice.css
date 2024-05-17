@@ -1,0 +1,106 @@
+.pay-invoice-v-2 {
+  background: #00C2CB;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4.4rem 0.8rem 2.1rem 0.9rem;
+  width: 100vw; /* Change width to 100vw (viewport width) */
+  height: 100vh; /* Set height to 100vh (viewport height) */
+  box-sizing: border-box;
+}
+
+.white-with-transparent-background-3 {
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/FmfLjSLPuZidy2Ait32mHP/assets/images/c13c199feeef9853df0d4ae2234352c08cf7f22a?Expires=1711620278&KeyName=fn12-cdn&Signature=OLd7ucjITYJuaB8kGsjx54hjJco=') 50% / cover no-repeat;
+  position: absolute;
+  left: 0.9rem;
+  top: -2.4rem;
+  width: 10.4rem;
+  height: 8.9rem;
+}
+
+.container-1{
+	border-radius: 1.9rem;
+	background: #FFFFFF;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0.3rem 0 1rem 0;
+	width: 50.0rem;
+	height: 27.0rem;
+	box-sizing: border-box;
+	top: 5.0rem;
+	margin-right: 1rem; /* Adjust margin-right to create a gap */
+}
+
+.invoiceHeader{
+	margin: 1.0rem 1.0rem 2.1rem 1.0rem;
+	display: inline-block;
+	overflow-wrap: break-word;
+	font-family: 'Montserrat';
+	font-weight: 700;
+	font-size: 1.9rem;
+	color: #002439;
+}
+
+.container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 32.4rem;
+  box-sizing: border-box;
+  margin-right: 7.0rem; /* Add margin-left to create gap */
+  margin-top: 2.0rem;
+}
+
+.container-3 {
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column; /* Change to column direction */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    box-sizing: border-box;
+    text-align: center;
+	font-size: 2rem;
+	padding-top: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.exitPayment {
+  text-align: center;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1rem;
+  color: #000000;
+  background-color: transparent;
+  padding: 0.8rem 1rem; /* Adjust padding */
+  border-radius: 1.9rem;
+  cursor: pointer;
+  display: inline-block;
+  min-width: 8rem; /* Change min-width instead of width */
+}
+
+.exitPayment:hover {
+  background-color: #d3d3d3;
+}
+
+.print-invoice {
+  text-align: center;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1rem;
+  color: #FFFFFF;
+  background: linear-gradient(90deg, #002439, #00C2CB);
+  border: none;
+  cursor: pointer;
+  border-radius: 1.9rem;
+  padding: 0.8rem 1.5rem; /* Adjust padding */
+  min-width: 8rem; /* Adjust width */
+  display: inline-block; /* Ensure buttons occupy the same width */
+  margin-left: 7.8rem;
+}
+
+.print-invoice:hover {
+  background: linear-gradient(#2d9de3, #7aa2de);
+}

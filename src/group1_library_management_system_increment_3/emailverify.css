@@ -1,0 +1,176 @@
+.container {
+    background-color: #00c2cb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-email {
+    width: 800px;
+    height: 100%;
+    margin-top:-3rem;
+    margin-bottom:3rem;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+    color:#002439;
+    font-size: 1.2rem;
+    line-height: 2.3;
+}
+
+.box {
+    width: 800px;
+    height: 100%;
+    margin-top:-3rem;
+    margin-bottom:3rem;
+    background-color: white;
+    padding: 10px;
+    /* margin: -2rem; */
+    text-align: center;
+    border-radius: 25px;
+    color:#002439;
+    font-size: 1.2rem;
+    line-height: 2.3;
+}
+
+.box input{
+    border-radius: 25px;
+    border-width: thin;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box input[type=text], input[type=password]{
+    background-color: #ffffff;
+    border-radius: 2rem;
+    border-color: #b7b7b7;
+    border-width: thin;
+    font-family: Montserrat, 'Source Sans Pro';
+    font-size: 14px;
+    font-weight: 400;
+    height: 2.5rem;
+    left: 30rem;
+    line-height: 1.2175;
+    width: 20rem;
+    padding-left: 20px;
+    box-shadow: 0 0.7rem 0.4rem rgba(168, 163, 163, 0.25);
+}
+
+.resend-btn{
+    align-items: center;
+    margin-top: 30px;
+    font-family: Montserrat;
+    border: solid 0.1rem #002439;
+    border-radius: 2rem;
+    cursor: pointer;
+    text-align: center;
+    color:#002439;
+    background-color: #ffffff;
+    white-space: nowrap;
+    height: 30px;
+    min-width: 150px;
+    box-shadow: 0 0.7rem 0.4rem rgba(168, 163, 163, 0.25);
+    font-size: 0.6rem;
+    font-weight: 550;
+}
+.resend-btn:hover {
+    border: solid 0.1rem #002439;
+    color: #ffffff;
+    background-color: #002439;
+}
+
+.btn{
+    margin-top: 30px;
+    font-family: Montserrat;
+    border: none;
+    text-align: center;
+    color:#ffffff;
+    background: linear-gradient(to right,#002439,#00c2cb);
+    height: 40px;
+    min-width: 150px;
+    box-shadow: 0 0.7rem 0.4rem rgba(168, 163, 163, 0.25);
+    font-size: 1rem;
+    font-weight: 550;
+    border-radius: 2rem;
+}.btn:hover{opacity: 0.7;}
+
+.emailver{
+    color:#002439;
+    font-weight: bold;
+    font-size: 3.5rem;
+    text-shadow: 0px 2px 4px #616161;
+}
+
+.message{
+    color:#002439;
+    padding-top: 0.5rem;
+    font-size: 1.2rem;
+    line-height: 2.3;
+}
+
+body{
+    background-color: #00c2cb;
+    font-family: Montserrat;
+}
+
+.eyeBtn{
+    background-color: transparent;
+    color: transparent;
+    border: none;
+    margin-left: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    cursor: pointer;
+}.eyeBtn:hover{opacity: 0.5;}
+
+.containerOTP {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.input {
+	width: 40px;
+	border: none;
+	border-bottom: 3px solid rgba(0, 0, 0, 0.5);
+	margin: 0 10px;
+	text-align: center;
+	font-size: 36px;
+	cursor: not-allowed;
+	pointer-events: none;
+    font-family: Montserrat;
+    color: black;
+}
+
+.input:focus {
+	border-bottom: 3px solid #00c2cb;
+	outline: none;
+}
+
+.input:nth-child(1) {
+	cursor: pointer;
+	pointer-events: all;
+}
+
+.error-message{
+    font-family: Montserrat, 'Source Sans Pro';
+    font-size: 14px;
+    font-weight: 400;
+    color: red;
+}
+
+.forgot-password-link{
+    margin-top: 0.5rem;
+    font-size: 14px;
+    margin-left: 40rem;
+}
+
+.cancel-btn{
+    text-decoration: underline;
+    font-family: Montserrat;
+    border: none;
+    background-color: transparent;
+    color: #002439;
+    cursor: pointer;
+}

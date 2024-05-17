@@ -1,0 +1,309 @@
+.homepage {
+    background-color: #ffffff;
+    height: 100%;
+    position: relative;
+    min-width: 500px;
+    width: 100%;
+    
+    .dropdown-logout {
+        position: relative;
+        display: inline-block;
+      }
+    
+    .dropdown-logout img {
+        cursor: pointer;
+    }
+    
+    .dropdown-content-logout {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    
+    .dropdown-content-logout a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    
+    .dropdown-content-logout a:hover {background-color: rgb(210, 210, 210)}
+    
+    #logout:hover {
+        color: white;
+        background-color: red;
+    }
+
+    .header {
+        background-color: #00c2cb;
+        display: flex;
+        width: 100%;
+    }
+
+    .header-text{
+        color: #ffffff;
+        background-color: transparent;
+        border-color: transparent;
+        border-radius: 2rem;
+        font-family: 'Montserrat';
+        font-size: 1.3rem;
+        font-weight: 700;
+        display: flex;
+        flex-shrink: 0;
+        justify-content: center;
+        line-height: 1.2175;
+        margin: 0.1rem 6.3rem 0rem 0rem;
+        white-space: nowrap;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .header-text:hover{
+        color: #00c2cb;
+        background-color: #ffffff;
+    }
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    
+    /* Dropdown Content (Hidden by Default) */
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        font-family: 'Montserrat';
+        font-size: 15px;
+    }
+    
+    /* Links inside the dropdown */
+    .dropdown-content a {
+        color: #002439;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        font-family: 'Montserrat';
+    }
+    
+    /* Change color of dropdown links on hover */
+    .dropdown-content a:hover {background-color: #ddd;}
+    
+    /* Show the dropdown menu on hover */
+    .dropdown:hover .dropdown-content {display: block;}
+    
+
+    .userpic {
+        border-radius: 2rem;
+        cursor: pointer;
+        height: 2.5rem;
+        width: 2.5rem;
+        margin-right: 5rem;
+        object-fit: cover;
+        vertical-align: top;
+		background-color:transparent;
+		color:transparent;
+		border:none;
+    }
+
+    .icon-button__badge {
+		position: absolute;
+		top: -7px; /* Adjust the positioning of the badge as per your design */
+		left: 30px; /* Adjust the positioning of the badge as per your design */
+		width: 20px;
+		height: 20px;
+		background: red;
+		color: #ffffff;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-radius: 50%;
+	}
+
+    .settingicon {
+        cursor: pointer;
+        height: 2.5rem;
+        margin-top: 0.1rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.5rem;
+    }
+
+    .searchinput {
+        background-color: #ffffff;
+        border-radius: 2em 0 0 2rem;
+        border-width: thin;
+        border-color: #b7b7b7;
+        box-shadow: 0 0.7rem 0.4rem rgba(168, 163, 163, 0.25);
+        height: 2.67rem;
+        width: 28.9rem;
+        padding-left: 20px;
+        font-family: Montserrat;
+    }
+
+    .searchbutton {
+        background-color: #00c2cb;
+        border: none;
+        border-radius: 0 2rem 2rem 0;
+        box-shadow: 0 0.7rem 0.4rem rgba(168, 163, 163, 0.25);
+        box-sizing: border-box;
+        cursor: pointer;
+        height: 2.67rem;
+        width: 4.1rem;
+        margin-left: -4.5px;
+        .search-img {
+            height: 1.5rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 1.5rem;
+        }
+    }
+    
+    .uosmlogo {
+        cursor: pointer;
+        height: 5.6rem;
+        left: 1.3rem;
+        object-fit: cover;
+        top: 0;
+        vertical-align: top;
+        width: 12.9rem;
+    }
+    .group-available-books {
+        position: absolute;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        display: flex;
+        height: 100%;
+        left: 0;
+        width: 100%;
+        margin-top: 15px;
+
+        .book {
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            margin: 2rem 2rem 2rem 6rem;
+
+            .image-book {
+                flex-shrink: 0;
+                height: 18.2rem;
+                margin-bottom: 0.6rem;
+                object-fit: cover;
+                vertical-align: top;
+                width: 12rem;
+            }
+        }
+
+        .details{
+            margin: 2rem 2rem 2rem 2rem;
+            align-items: center;
+            color: #002439;
+            font-family: Montserrat;
+            font-size: 2rem;
+            font-weight: 800;
+            justify-content: Left;
+            text-decoration: none;
+
+            .subdetails{
+                font-size: 1.2rem;
+                line-height: 1.3rem;;
+            }
+
+            .answer{
+                font-size: 1.2rem;
+                font-weight: 400;
+                line-height: 1.3rem;;
+            }
+            .vl {
+                border-left: 3px solid black;
+                position: absolute;
+                height: 210px;
+                right:30%
+            }
+            .reserve-button, .extend-button, .cancel-reserve-button{
+                margin-top: 1rem;
+                border-width: 2px;
+                border-color: #002439;
+                text-align: center;
+                color:#002439;
+                border-radius: 2rem;
+                background: white;
+                height: 40px;
+                width: 270px;
+                box-shadow: 0px 2px 6px #616161;
+                font-family: Montserrat, 'Source Sans Pro';
+                font-size: 1.3rem;
+                font-weight: 550;
+            }
+            .borrow-button, .return-button{
+                margin-top: 1rem;
+                border: none;
+                text-align: center;
+                color:#ffffff;
+                border-radius: 2rem;
+                background: linear-gradient(to right,#002439,#00c2cb);
+                height: 40px;
+                width: 270px;
+                box-shadow: 0px 2px 6px #616161;
+                font-family: Montserrat, 'Source Sans Pro';
+                font-size: 1.3rem;
+                font-weight: 550;
+            }
+        }
+    }
+
+}
+
+.pay-dropdown-icon-badge {
+    position: relative;
+}
+
+.pay-dropdown-icon-badge .dropdown-button__badge {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: red;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    top: 14px;
+    right: 55px; /* Adjust the position as needed */
+}
+
+.icon-history__badge {
+    position: absolute;
+    top: -3px;
+    right: -5px;
+    width: 20px;
+    height: 20px;
+    background: red;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-weight: 100;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+  .name-text {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 20px;
+    color: #00c2cb;
+    text-align: right; 
+    /* text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  */
+    margin-top: 5px;
+    margin-right: 10px;
+}

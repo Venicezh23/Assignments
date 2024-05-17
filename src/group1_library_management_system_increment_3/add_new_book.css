@@ -1,0 +1,837 @@
+.add-new-book-MNw {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .searchinput {
+      background-color: #ffffff;
+      border-radius: 2rem;
+      box-shadow: 0 0.7rem 0.4rem rgba(168, 163, 163, 0.25);
+      height: 2.67rem;
+      width: 28.9rem;
+      font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+  }
+
+  .ellipse-14-LZs {
+      background-color: #002439;
+      border-radius: 12.5rem;
+      height: 25rem;
+      left: 58rem;
+      position: absolute;
+      top: 39.5rem;
+      width: 25rem;
+    }
+    .ellipse-19-DtZ {
+      background-color: #002439;
+      border-radius: 5.85rem;
+      height: 11.7rem;
+      left: 70.7rem;
+      position: absolute;
+      top: 32.2rem;
+      width: 11.7rem;
+    }
+    .ellipse-15-9GR {
+      background-color: #00c2cb;
+      border-radius: 12.5rem;
+      height: 25rem;
+      left: 59rem;
+      position: absolute;
+      top: 39.3rem;
+      width: 25rem;
+    }
+    .ellipse-13-dBb {
+      background-color: #002439;
+      border-radius: 6.4rem;
+      height: 12.8rem;
+      left: 23.8rem;
+      position: absolute;
+      top: 5.6rem;
+      width: 12.8rem;
+    }
+    .ellipse-12-wCH {
+      background-color: #00c2cb;
+      border-radius: 6.4rem;
+      height: 12.8rem;
+      left: 24.4rem;
+      position: absolute;
+      top: 4.8rem;
+      width: 12.8rem;
+    }
+    .ellipse-16-fe5 {
+      background-color: #002439;
+      border-radius: 7.2rem;
+      height: 14.4rem;
+      left: 51.8rem;
+      position: absolute;
+      top: 49.3rem;
+      width: 14.4rem;
+    }
+    .ellipse-17-nih {
+      background-color: #00c2cb;
+      border-radius: 5.55rem;
+      height: 13.1rem;
+      left: 54.4rem;
+      object-fit: contain;
+      position: absolute;
+      top: 49.7rem;
+      vertical-align: top;
+      width: 13rem;
+    }
+    .ellipse-18-uoK {
+      background-color: #00c2cb;
+      border-radius: 5.55rem;
+      height: 11.1rem;
+      left: 72.2rem;
+      position: absolute;
+      top: 32.1rem;
+      width: 11.1rem;
+    }
+
+  .auto-group-miij-P4j {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 5.6rem;
+    margin: 0rem 1.7rem 0rem 1.3rem;
+    width: calc(100% - 3rem);
+
+    .ea-inst-logo-soton-1-mjV {
+      flex-shrink: 0;
+      height: 5.6rem;
+      margin-right: 17.8rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 12.9rem;
+    }
+    .add-new-book-615 {
+      align-items: center;
+      color: #002439;
+      display: flex;
+      flex-shrink: 0;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 3rem;
+      font-weight: 700;
+      justify-content: center;
+      line-height: 1.2175;
+      margin-top: 0.9rem;
+      white-space: nowrap;
+    }
+    .auto-group-eeab-AFq {
+      align-items: center;
+      box-sizing: border-box;
+      display: flex;
+      flex-shrink: 0;
+      height: 100%;
+      padding: 1.8rem 0rem 1.3rem 13.1rem;
+
+      .user-white-1-svw {
+        border-radius: 2rem;
+        flex-shrink: 0;
+        height: 2.5rem;
+        margin-right: 2.3rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 2.4rem;
+      }
+      .auto-group-qwuv-ZHy {
+        flex-shrink: 0;
+        height: 1.2rem;
+        margin-top: 0.1rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 1.8rem;
+      }
+    }
+  }
+  .auto-group-oydu-TeF {
+      align-items:start;
+      display: flex;
+      flex-shrink: 0;
+      height: 48.2rem;
+      width: 100%;
+
+    .auto-group-3us5-zPH {
+      background-color: #00c2cb;
+      border-radius: 0 1rem 1rem 0;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 23rem;
+      padding-left: 1.3rem;
+      padding-top: 2rem;
+      width: 12rem;
+
+      .auto-group-xsxk-tjZ {
+        align-items: center;
+        background-color: #ffffff;
+        border: solid 0.5rem #ffffff;
+        border-radius: 2rem;
+        box-sizing: border-box;
+        color: #00c2cb;
+        display: flex;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.3rem;
+        font-weight: 700;
+        height: 2.4rem;
+        justify-content: center;
+        line-height: 1.2175;
+        margin-bottom: 2.65rem;
+        white-space: nowrap;
+        width: 100%;
+      }
+
+      .header-text{
+        color: #ffffff;
+        background-color: transparent;
+        border-color: transparent;
+        border-radius: 2rem;
+        font-family: 'Montserrat';
+        font-size: 1.3rem;
+        font-weight: 700;
+        display: flex;
+        flex-shrink: 0;
+        justify-content: center;
+        line-height: 1.2175;
+        margin: 0.1rem 6.3rem 0rem 0rem;
+        white-space: nowrap;
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+  
+      .header-text:hover{
+          color: #00c2cb;
+          background-color: #ffffff;
+      }
+
+    }
+    .auto-group-bvd1-hU3 {
+      flex-shrink: 0;
+      height: 45.9rem;
+      margin-top: 0.4rem;
+      margin-left:2rem;
+      position: relative;
+      width: 62.6rem;
+
+      .group-32-AMd {
+        height: 15.9rem;
+        left: 8.7rem;
+        object-fit: contain;
+        position: absolute;
+        top: 1.8rem;
+        vertical-align: top;
+        width: 15.6rem;
+      }
+      .group-33-gqm {
+        height: 26.1rem;
+        left: 29.9rem;
+        object-fit: contain;
+        position: absolute;
+        top: 19.8rem;
+        vertical-align: top;
+        width: 26.1rem;
+      }
+      .rectangle-37-RHZ {
+        backdrop-filter: blur(0.4rem);
+        background-color: rgba(0, 0, 0, 0.1000000015);
+        border-radius: 1rem;
+        height: 45.8rem;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 62.6rem;
+      }
+      .title-WZu {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 2rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 0.65rem;
+        white-space: nowrap;
+        width: 3rem;
+      }
+      .rectangle-27-bbM {
+        background-color: #ffffff;
+        border-color: #b7b7b7;
+        border-radius: 2rem;
+        border-width: thin;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        /* box-sizing: border-box; */
+        height: 2.9rem;
+        left: 1.9rem;
+        position: absolute;
+        top: 2.7rem;
+        width: 36.5rem;
+        padding-left: 20px;
+        font-family: Montserrat;
+        font-size: 18px;
+      }
+      .enter-the-title-pyu {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 3.1rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 3.6rem;
+        white-space: nowrap;
+        width: 7rem;
+      }
+      .authors-iJb {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 2.1rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 12.95rem;
+        white-space: nowrap;
+        width: 5.6rem;
+      }
+      .rectangle-31-12o {
+        background-color: #ffffff;
+        border-width: thin;
+        border-color: #b7b7b7;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 2rem;
+        position: absolute;
+        top: 15rem;
+        width: 17rem;
+        font-family: Montserrat;
+        padding-left: 20px;
+        font-size: 18px;
+      }
+      .enter-the-authors-tcP {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 3.2rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 15.9rem;
+        white-space: nowrap;
+        width: 8.9rem;
+      }
+      .isbn-bWo {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 2.1rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 6.85rem;
+        white-space: nowrap;
+        width: 3.5rem;
+      }
+      .rectangle-30-gYF {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 2rem;
+        position: absolute;
+        top: 8.9rem;
+        width: 36.4rem;
+      }
+      .upload-image{
+          height: 100px;
+      }
+      .rectangle-36-7dZ {
+          /* justify-content: center; */
+        background-color: #ffffff;
+        border: solid 0.1rem rgba(0, 0, 0, 0.5);
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 17.4rem;
+        left: 43.3rem;
+        position: absolute;
+        top: 2.7rem;
+        width: 16.3rem;
+        color: #868686;
+        font-family: Montserrat;
+        font-size: 18px;
+      }
+      .custom-image-input {
+        display: none;
+    }
+      .line-15-Cf1 {
+        height: 0;
+        left: 48.9rem;
+        object-fit: contain;
+        position: absolute;
+        top: 13.1rem;
+        vertical-align: top;
+        width: 5.1rem;
+      }
+      .line-14-8oZ {
+        height: 2.3rem;
+        left: 54rem;
+        object-fit: contain;
+        position: absolute;
+        top: 10.8rem;
+        vertical-align: top;
+        width: 0;
+      }
+      .enter-the-isbn-U6j {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 3.2rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 9.8rem;
+        white-space: nowrap;
+        width: 7.5rem;
+      }
+      .upload-picture-AVM {
+        align-items: center;
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        justify-content: center;
+        left: 47.7rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 13.7rem;
+        white-space: nowrap;
+        width: 7.6rem;
+      }
+      .call-number-rNB {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 2.2rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 25.45rem;
+        white-space: nowrap;
+        width: 8.9rem;
+      }
+      
+      .rectangle-37-WxX {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding: 15px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 7rem;
+        left: 43.3rem;
+        position: absolute;
+        top: 23.4rem;
+        width: 16.3rem;
+        resize: none;
+      }
+      .enter-the-remarks-nv3 {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 44.5rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 24.6rem;
+        white-space: nowrap;
+        width: 9.1rem;
+      }
+      .remarks-ty5 {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 43.5rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 21.15rem;
+        white-space: nowrap;
+        width: 6.3rem;
+      }
+      .rectangle-35-Cym {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 2.1rem;
+        position: absolute;
+        top: 27.5rem;
+        width: 36.4rem;
+      }
+      .enter-the-call-number-6ZM {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 3.3rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 28.4rem;
+        white-space: nowrap;
+        width: 11rem;
+      }
+      .publisher-nwy {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 2rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 19.35rem;
+        white-space: nowrap;
+        width: 6.7rem;
+      }
+      .price-nwy {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 2.3rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 32rem;
+        white-space: nowrap;
+        width: 6.7rem;
+      }
+      .rectangle-32-uWo {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 1.9rem;
+        position: absolute;
+        top: 21.4rem;
+        width: 23rem;
+      }
+      .rectangle-33-uWo {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 1.9rem;
+        position: absolute;
+        top: 34rem;
+        width: 12rem;
+      }
+      .enter-the-publisher-jVq {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 3.1rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 22.3rem;
+        white-space: nowrap;
+        width: 9.7rem;
+      }
+      .year-3Fd {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 27.4rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 19.35rem;
+        white-space: nowrap;
+        width: 3.1rem;
+      }
+      .category-3Fd {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 17.4rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 32rem;
+        white-space: nowrap;
+        width: 3.1rem;
+      }
+      .picture-wbu {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 43.5rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 0.65rem;
+        white-space: nowrap;
+        width: 5.1rem;
+      }
+      .rectangle-34-G8P {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 27.3rem;
+        position: absolute;
+        top: 21.4rem;
+        width: 11.1rem;
+      }
+      .rectangle-35-G8P {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 17rem;
+        position: absolute;
+        top: 34rem;
+        width: 17.1rem;
+      }
+      .enter-the-year-x1D {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 28.5rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 22.3rem;
+        white-space: nowrap;
+        width: 7.1rem;
+      }
+      .edition-4a3 {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 21.5rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 12.95rem;
+        white-space: nowrap;
+        width: 5.1rem;
+      }
+      .location-4a3 {
+        color: #002439;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 1.8rem;
+        left: 2.4rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 37.95rem;
+        white-space: nowrap;
+        width: 5.1rem;
+      }
+      .rectangle-33-Zmh {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 21.4rem;
+        position: absolute;
+        top: 15rem;
+        width: 17rem;
+      }
+      .rectangle-34-Zmh {
+        background-color: #ffffff;
+        font-family: Montserrat;
+      padding-left: 20px;
+      border-width: thin;
+      border-color: #b7b7b7;
+      font-size: 18px;
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        height: 2.9rem;
+        left: 1.8rem;
+        position: absolute;
+        top: 40rem;
+        width: 17rem;
+      }
+      .enter-the-edition-29V {
+        color: rgba(84, 84, 84, 0.3000000119);
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1rem;
+        font-weight: 400;
+        height: 1.3rem;
+        left: 22.3rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 15.9rem;
+        white-space: nowrap;
+        width: 8.5rem;
+      }
+      .rectangle-29-vkf {
+        background: linear-gradient(90deg, #002439 0%, #00c2cb 100%);
+        border-radius: 2rem;
+        box-shadow: 0 0.7rem 0.4rem rgba(0, 0, 0, 0.25);
+        height: 3.1rem;
+        left: 43.5rem;
+        position: absolute;
+        top: 40.1rem;
+        width: 16.1rem;
+
+        align-items: center;
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.5rem;
+        font-weight: 600;
+        justify-content: center;
+        border-color: transparent;
+      }
+      .confirm-opT {
+        align-items: center;
+        color: #ffffff;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.5rem;
+        font-weight: 600;
+        height: 1.9rem;
+        justify-content: center;
+        left: 47.8rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 32.7rem;
+        white-space: nowrap;
+        width: 7.6rem;
+      }
+      .arrow-4-7KM {
+        height: 3.8rem;
+        left: 51.5rem;
+        object-fit: contain;
+        position: absolute;
+        top: 8rem;
+        vertical-align: top;
+        width: 0;
+      }
+      .line-13-FAf {
+        height: 2.3rem;
+        left: 48.9rem;
+        object-fit: contain;
+        position: absolute;
+        top: 10.8rem;
+        vertical-align: top;
+        width: 0;
+      }
+      .message-prompt {
+        align-items: center;
+        color: #788800;
+        display: flex;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.2rem;
+        font-weight: 600;
+        height: 1.8rem;
+        justify-content: center;
+        left: 28.5rem;
+        line-height: 1.2175;
+        position: absolute;
+        top: 41.5rem;
+        white-space: nowrap;
+        width: 4.1rem;
+      }
+    }
+  }
+}

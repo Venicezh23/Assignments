@@ -1,0 +1,491 @@
+.update-user-z6h {
+    background-color: #ffffff;
+    height: 39.4rem;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+
+
+    .group-start {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      height: 5.6rem;
+      margin: 0rem 1.7rem 0rem 1.3rem;
+      width: calc(100% - 3rem);
+
+      .ea-inst-logo-soton-1-UDV {
+        flex-shrink: 0;
+        height: 5.6rem;
+        margin-right: 18.1rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 12.9rem;
+      }
+      .auto-group-srcb-RY3 {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 100%;
+        padding: 1.8rem 0rem 1.3rem 36.2rem;
+  
+        .user-white-1-kKR {
+          border-radius: 2rem;
+          flex-shrink: 0;
+          height: 2.5rem;
+          margin-right: 2.3rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 2.4rem;
+        }
+        .auto-group-q6rd-3JX {
+          flex-shrink: 0;
+          height: 1.2rem;
+          margin-top: 0.1rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 1.8rem;
+        }
+      }
+    }
+    .group-main {
+      align-items: flex-start;
+      display: flex;
+      flex-shrink: 0;
+      height: 38.9rem;
+      width: 100%;
+    }
+  
+    .ellipse-14-LZs {
+      background-color: #002439;
+      border-radius: 12.5rem;
+      height: 25rem;
+      left: 60.2rem;
+      position: absolute;
+      top: 24.5rem;
+      width: 25rem;
+    }
+    .ellipse-19-DtZ {
+      background-color: #002439;
+      border-radius: 5.85rem;
+      height: 11.7rem;
+      left: 70.7rem;
+      position: absolute;
+      top: 18.2rem;
+      width: 11.7rem;
+    }
+    .ellipse-15-9GR {
+      background-color: #00c2cb;
+      border-radius: 12.5rem;
+      height: 25rem;
+      left: 61.3rem;
+      position: absolute;
+      top: 24.3rem;
+      width: 25rem;
+    }
+    .ellipse-13-dBb {
+      background-color: #002439;
+      border-radius: 6.4rem;
+      height: 12.8rem;
+      left: 13.8rem;
+      position: absolute;
+      top: 10.6rem;
+      width: 12.8rem;
+    }
+    .ellipse-12-wCH {
+      background-color: #00c2cb;
+      border-radius: 6.4rem;
+      height: 12.8rem;
+      left: 14.4rem;
+      position: absolute;
+      top: 9.8rem;
+      width: 12.8rem;
+    }
+    .ellipse-16-fe5 {
+      background-color: #002439;
+      border-radius: 7.2rem;
+      height: 14.4rem;
+      left: 51.8rem;
+      position: absolute;
+      top: 34.3rem;
+      width: 14.4rem;
+    }
+    .ellipse-17-nih {
+      background-color: #00c2cb;
+      border-radius: 5.55rem;
+      height: 13.1rem;
+      left: 54.4rem;
+      object-fit: contain;
+      position: absolute;
+      top: 34.7rem;
+      vertical-align: top;
+      width: 13rem;
+    }
+    .ellipse-18-uoK {
+      background-color: #00c2cb;
+      border-radius: 5.55rem;
+      height: 11.1rem;
+      left: 72.2rem;
+      position: absolute;
+      top: 18.1rem;
+      width: 11.1rem;
+    }
+    .rectangle-32-eW1 {
+      backdrop-filter: blur(0.4rem);
+      background-color: rgba(0, 0, 0, 0.1000000015);
+      border-radius: 1rem;
+      height: 28.9rem;
+      left: 20.7rem;
+      position: absolute;
+      top: 8.8rem;
+      width: 47.9rem;
+    }
+    .update-new-student-kow {
+      align-items: center;
+      color: #002439;
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 3rem;
+      font-weight: bold;
+      height: 3.7rem;
+      justify-content: center;
+      left: 26.8rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 0.9rem;
+      white-space: nowrap;
+      width: 33.9rem;
+    }
+
+    .first-name{
+      align-items: center;
+      color: #002439;
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.4rem;
+      font-weight: 400;
+      height: 1.8rem;
+      justify-content: center;
+      left: 30.8rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 10.85rem;
+      white-space: nowrap;
+      width: 4.1rem;
+    }
+    .rectangle-31-tqb {
+      background-color: #ffffff;
+      border: solid 0.1rem rgba(0, 0, 0, 0.5);
+      border-radius: 2rem;
+      box-shadow: 0px 2px 6px #616161;
+      box-sizing: border-box;
+      height: 2.9rem;
+      left: 28.2rem;
+      position: absolute;
+      top: 12.7rem;
+      width: 15rem;
+    }
+    .enter-first-name {
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1rem;
+      font-weight: 400;
+      height: 1.3rem;
+      left: 30rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 13.6rem;
+      white-space: nowrap;
+      width: 12.8rem;
+    }
+    .last-name{
+      align-items: center;
+      color: #002439;
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.4rem;
+      font-weight: 400;
+      height: 1.8rem;
+      justify-content: center;
+      left: 48.6rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 10.85rem;
+      white-space: nowrap;
+      width: 4.1rem;
+    }
+    .rectangle-33-tqb {
+      background-color: #ffffff;
+      border: solid 0.1rem rgba(0, 0, 0, 0.5);
+      border-radius: 2rem;
+      box-shadow: 0px 2px 6px #616161;
+      box-sizing: border-box;
+      height: 2.9rem;
+      left: 46rem;
+      position: absolute;
+      top: 12.7rem;
+      width: 15rem;
+    }
+    .enter-last-name {
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1rem;
+      font-weight: 400;
+      height: 1.3rem;
+      left: 47.5rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 13.6rem;
+      white-space: nowrap;
+      width: 2.8rem;
+    }
+
+    .enter-password{
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1rem;
+      font-weight: 400;
+      height: 1.3rem;
+      left: 30rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 20.6rem;
+      white-space: nowrap;
+      width: 12.8rem;
+    }
+
+    #fname-input{
+      border-width: 0px;
+      border: none;
+      outline: none;
+      font-size: 100%;
+      width: 12rem;
+    }
+    #lname-input{
+      border-width: 0px;
+      border: none;
+      outline: none;
+      font-size: 100%;
+      width: 12rem;
+    }
+
+    #id-input{
+        border-width: 0px;
+        border: none;
+        outline: none;
+        font-size: 100%;
+        width: 30rem;
+    }
+
+    .password-wDX {
+      align-items: center;
+      color: #002439;
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.4rem;
+      font-weight: 400;
+      height: 1.8rem;
+      justify-content: center;
+      left: 28.8rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 17.05rem;
+      white-space: nowrap;
+      width: 6.8rem;
+    }
+
+    #password-input{
+        border-width: 0px;
+        border: none;
+        outline: none;
+        position: absolute;
+        left: 475px;
+        top: 320px;
+        font-size: 100%;
+        width: 13rem;
+    }
+
+    .buttonConfirm {
+      border: none;
+      background: linear-gradient(90deg, #002439 0%, #00c2cb 100%);
+      box-shadow: 0px 2px 6px #616161;
+      width:33.7rem;
+      height:3.1rem;
+      text-align: center;
+      text-decoration: none;
+      font-family: Montserrat, 'Source Sans Pro';
+      cursor: pointer;
+      border-radius: 50px;
+      position: absolute;
+      top: 30.2rem;
+      left: 28.2rem;
+    }
+
+    .confirmBtn{
+      font-size: 20px;
+      font-weight: 550;
+      color: #fff;
+    }
+
+    .rectangle-35-KtH {
+      background: linear-gradient(90deg, #002439 0%, #00c2cb 100%);
+      border-radius: 2rem;
+      box-shadow: 0px 2px 6px #616161;
+      height: 3.1rem;
+      left: 46.3rem;
+      position: absolute;
+      top: 19.3rem;
+      width: 15.6rem;
+    }
+    .generate-password-221 {
+      align-items: center;
+      color: #ffffff;
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.2rem;
+      font-weight: 600;
+      height: 3rem;
+      justify-content: center;
+      left: 50.4rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 19.3rem;
+      width: 7.5rem;
+    }
+
+    .buttonPass {
+        border: none;
+        background: linear-gradient(90deg, #002439 0%, #00c2cb 100%);
+        text-align: center;
+        text-decoration: none;
+        font-family: Montserrat, 'Source Sans Pro';
+        display: inline-block;
+        padding-left: 56%;
+        padding-right: 56%;
+        margin: 10px 10px 10px 10px;
+        cursor: pointer;
+        border-radius: 50px;
+    }
+
+    .generatePass{
+        width: 500px;
+        font-size: 20px;
+        font-weight: 550;
+        color: #fff;
+    }
+
+    .rectangle-36-vt5 {
+      background-color: #ffffff;
+      border: solid 0.1rem rgba(0, 0, 0, 0.5);
+      border-radius: 2rem;
+      box-shadow: 0px 2px 6px #616161;
+      box-sizing: border-box;
+      height: 2.9rem;
+      left: 28.2rem;
+      position: absolute;
+      top: 19.3rem;
+      width: 16.9rem;
+    }
+
+    .phone-num {
+      align-items: center;
+      color: #002439;
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.4rem;
+      font-weight: 400;
+      height: 1.8rem;
+      justify-content: center;
+      left: 30.4rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 24rem;
+      white-space: nowrap;
+      width: 4.1rem;
+    }
+
+    .message-prompt {
+      align-items: center;
+      color: #788800;
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.2rem;
+      font-weight: 600;
+      height: 1.8rem;
+      justify-content: center;
+      left: 35.5rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 34.5rem;
+      white-space: nowrap;
+      width: 4.1rem;
+    }
+
+    .rectangle-34-tqb {
+      background-color: #ffffff;
+      border: solid 0.1rem rgba(0, 0, 0, 0.5);
+      border-radius: 2rem;
+      box-shadow: 0px 2px 6px #616161;
+      box-sizing: border-box;
+      height: 2.9rem;
+      left: 28.2rem;
+      position: absolute;
+      top: 26.2rem;
+      width: 33.7rem;
+    }
+    .enter-the-phone-number {
+      display: flex;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1rem;
+      font-weight: 400;
+      height: 1.3rem;
+      left: 30rem;
+      line-height: 1.2175;
+      position: absolute;
+      top: 27rem;
+      white-space: nowrap;
+      width: 10rem;
+    }
+    #phnum-input{
+      border-width: 0px;
+      border: none;
+      outline: none;
+      font-size: 100%;
+      width: 30rem;
+  }
+    .auto-group-cjm1-VRR {
+      background-color: #00c2cb;
+      border-radius: 0 1rem 1rem 0;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 23rem;
+      padding-left: 1.3rem;
+      padding-top: 2rem;
+      width: 12rem;
+    }
+    .header-text{
+      color: #ffffff;
+      background-color: transparent;
+      border-color: transparent;
+      border-radius: 2rem;
+      font-family: 'Montserrat';
+      font-size: 1.3rem;
+      font-weight: 700;
+      display: flex;
+      flex-shrink: 0;
+      justify-content: center;
+      line-height: 1.2175;
+      margin: 0.1rem 6.3rem 0rem 0rem;
+      white-space: nowrap;
+      margin-top: 5px;
+      margin-bottom: 5px;
+  }
+
+  .header-text:hover{
+      color: #00c2cb;
+      background-color: #ffffff;
+  }
+  }

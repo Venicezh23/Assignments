@@ -1,0 +1,96 @@
+[2024-04-23 17:33:30] User ID: 16 logged in successfully.
+[2024-04-23 17:34:52] User ID: 16 logged in successfully.
+[2024-04-23 11:34:54] User ID: 16 logged out.
+[2024-04-23 17:52:01] User ID: 16 logged in successfully.
+[2024-04-23 18:21:57] User ID: 16 logged out.
+[2024-04-24 00:22:04] User ID: 16 logged in successfully.
+[2024-04-24 10:36:10] User ID: 16 logged in successfully.
+[2024-04-24 04:54:08] User ID: 16 logged out.
+[2024-04-24 11:01:06] User ID: 16 logged in successfully.
+[2024-04-24 05:21:46] User ID: 16 logged out.
+[2024-04-24 11:21:59] User ID: 16 logged in successfully.
+[2024-04-24 05:22:48] User ID: 16 logged out.
+[2024-04-24 11:22:52] User ID: 16 logged in successfully.
+[2024-04-24 05:24:31] User ID: 16 logged out.
+[2024-04-24 11:24:35] User ID: 16 logged in successfully.
+[2024-04-24 07:18:33] User ID: 16 have updated User 87's details.
+[2024-04-24 07:18:36] User ID: 16 have updated User 87's details.
+[2024-04-24 07:19:05] User ID: 16 have deleted Book 87'.
+[2024-04-24 07:20:46] User ID: 16 have deleted Book 88'.
+[2024-04-24 07:21:45] User ID: 16 have deleted Book 89'.
+[2024-04-24 07:24:47] User ID: 16 have deleted Book 90'.
+[2024-04-24 07:26:06] User ID: 16 have added a new book: 1111.
+[2024-04-24 07:26:15] User ID: 16 have deleted Book 92'.
+[2024-04-24 07:27:25] User ID: 16 logged out.
+[2024-04-24 14:43:01] User ID: 16 logged in successfully.
+[2024-04-24 08:45:36] User ID: 16 have added a new User 11111111.
+[2024-04-24 08:47:48] User ID: 16 have updated User 46's password.
+[2024-04-24 08:49:12] User ID: 16 have deleted User 46'.
+[2024-04-24 08:49:40] User ID: 16 have archived a Book: 57.
+[2024-04-24 08:49:46] User ID: 16 have unarchived a Book: 57.
+[2024-04-24 16:27:06] Librarian ID: 16 have paid 16's fines.
+[2024-04-24 16:37:53] User ID: 34 logged in successfully.
+[2024-04-24 23:04:45] User ID: 16 logged in successfully.
+[2024-04-24 18:27:15] User ID: 16 logged out.
+[2024-04-25 00:27:26] User ID: 34 logged in successfully.
+[2024-04-24 18:29:01] User ID: 34 logged out.
+[2024-04-25 00:29:07] User ID: 16 logged in successfully.
+[2024-04-25 11:31:43] User ID: 16 logged in successfully.
+[2024-04-25 06:00:45] User ID: 16 logged out.
+[2024-04-25 12:01:18] User ID: 16 logged in successfully.
+[2024-04-25 11:31:14] User ID: 16 have changed the QR Code payment image.
+[2024-04-25 11:42:31] User ID: 16 have changed the QR Code payment image.
+[2024-04-25 11:42:56] User ID: 16 have changed the QR Code payment image.
+[2024-04-25 11:44:28] User ID: 16 logged out.
+[2024-04-25 17:44:41] User ID: 16 logged in successfully.
+[2024-04-25 11:45:30] User ID: 16 have changed the QR Code payment image.
+[2024-04-25 16:56:01] User ID: 16 logged out.
+[2024-04-25 22:56:30] User ID: 16 logged in successfully.
+[2024-04-25 22:56:33] User ID: 16 have requested an OTP Code.
+[2024-04-25 16:58:01] User ID: 16 have borrow a book: 22.
+[2024-04-25 16:58:06] User ID: 16 have extend their duedate on BookIssuedID: 20.
+[2024-04-25 16:58:10] User ID: 16 have extend their duedate on BookIssuedID: 20.
+[2024-04-25 16:58:34] User ID: 16 have extend their duedate: 12.
+[2024-04-25 16:58:37] User ID: 16 have extend their duedate: 19.
+[2024-04-25 16:58:39] User ID: 16 have extend their duedate: 12.
+[2024-04-25 16:58:52] User ID: 16 have return a book: 34.
+[2024-04-25 22:59:42] User ID: 16 have paid their fines: .
+[2024-04-25 17:04:10] User ID: 16 have made a reservation: 11.
+[2024-04-25 23:04:40] A total of Rm 684.33 fine was issued to User ID: 16.
+[2024-04-25 23:43:15] Librarian ID: 16 have paid 16's fines.
+[2024-04-25 18:17:53] User ID: 16 have borrow a book: 46.
+[2024-04-25 18:22:13] User ID: 16 have extend their duedate: 12.
+[2024-04-25 18:22:15] User ID: 16 have extend their duedate: 12.
+[2024-04-25 18:22:18] User ID: 16 have extend their duedate: 12.
+[2024-04-25 18:22:29] User ID: 16 have extend their duedate: 22.
+[2024-04-25 18:22:31] User ID: 16 have extend their duedate: 22.
+[2024-04-25 19:00:01] User ID: 16 have extend their duedate: 19.
+[2024-04-25 19:00:04] User ID: 16 have extend their duedate: 19.
+[2024-04-25 19:00:10] User ID: 16 have return a book: 46.
+[2024-04-25 19:00:20] User ID: 16 have borrow a book: 14.
+[2024-04-25 19:00:28] User ID: 16 have extend their duedate: 23.
+[2024-04-25 19:02:46] User ID: 16 have extend their duedate: 23.
+[2024-04-25 19:02:54] User ID: 16 have return a book: 14.
+[2024-04-25 19:02:58] User ID: 16 have borrow a book: 12.
+[2024-04-25 19:03:03] User ID: 16 have extend their duedate: 24.
+[2024-04-25 19:03:06] User ID: 16 have extend their duedate: 24.
+[2024-04-25 19:03:13] User ID: 16 have return a book: 12.
+[2024-04-25 19:03:17] User ID: 16 have borrow a book: 54.
+[2024-04-25 19:03:22] User ID: 16 have extend their duedate: 25.
+[2024-04-25 19:03:24] User ID: 16 have extend their duedate: 25.
+[2024-04-25 19:05:57] User ID: 16 logged out.
+[2024-04-26 01:06:03] User ID: 16 logged in successfully.
+[2024-04-25 19:08:16] User ID: 16 logged out.
+[2024-04-26 01:08:24] User ID: 16 logged in successfully.
+[2024-04-25 19:10:45] User ID: 16 logged out.
+[2024-04-26 01:10:53] User ID: 34 logged in successfully.
+[2024-04-25 19:12:56] User ID: 34 logged out.
+[2024-04-26 01:13:25] User ID: 34 logged in successfully.
+[2024-04-26 01:13:42] A total of Rm 325.21 fine was issued to User ID: 16.
+[2024-04-26 01:25:13] Librarian ID: 34 have paid 16's fines.
+[2024-04-25 19:26:11] User ID: 34 logged out.
+[2024-04-26 01:26:18] User ID: 16 logged in successfully.
+[2024-04-25 19:26:33] User ID: 16 have borrow a book: 14.
+[2024-04-25 19:26:36] User ID: 16 have extend their duedate on BookIssuedID: 26.
+[2024-04-25 19:26:38] User ID: 16 have extend their duedate on BookIssuedID: 26.
+[2024-04-25 19:26:52] User ID: 16 logged out.
